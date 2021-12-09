@@ -21,8 +21,6 @@ RS-Solver создан специально для решения задач к�
 ### Подготовка Excel документа
 
 Данный файл включает в себя 5 таблиц, соответствующие типу задания.
-![145430290-008df3ca-84eb-4c75-9ae5-4a18ffccc178](https://user-images.githubusercontent.com/83603595/145433730-f8f20a4c-c1ff-4dd7-8ab5-7221b94f4a7c.png)![145430290-008df3ca-84eb-4c75-9ae5-4a18ffccc178](https://user-images.githubusercontent.com/83603595/145433733-27209c35-bb4d-4ead-9dba-f12ffaf374ea.png)
-
 
 ![installation1](https://user-images.githubusercontent.com/83603595/145411953-5bba100c-3035-4a08-bf01-fa3a60f0b80e.png)
 
